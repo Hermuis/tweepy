@@ -11,7 +11,7 @@ interactions:
       User-Agent:
       - python-requests/2.25.1
     method: GET
-    uri: https://api.twitter.com/1.1/followers/ids.json?screen_name=TweepyDev
+    uri: https://api.twitter.com/1.1/followers/ids.json?screen_name=sexaflick
   response:
     body:
       string: !!binary |
